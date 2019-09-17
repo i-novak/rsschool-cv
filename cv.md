@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/irbris/rsschool-cv/rsschool-cv-html/assets/avatar200х200.png)
+
 # Irina Novak 
 ### Junior Front-End Developer  
 ![](https://placehold.it/320x10/829985/829985?text+)
